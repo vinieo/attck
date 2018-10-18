@@ -1,0 +1,1316 @@
+fileFormatVersion: 2
+guid: 26b92d301983b1045b1700a6790dd750
+timeCreated: 1523924181
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 L Calf
+    100004: Bip01 L Clavicle
+    100006: Bip01 L Finger0
+    100008: Bip01 L Finger01
+    100010: Bip01 L Foot
+    100012: Bip01 L Forearm
+    100014: Bip01 L Hand
+    100016: Bip01 L Thigh
+    100018: Bip01 L Toe0
+    100020: Bip01 L UpperArm
+    100022: Bip01 Neck
+    100024: Bip01 R Calf
+    100026: Bip01 R Clavicle
+    100028: Bip01 R Finger0
+    100030: Bip01 R Finger01
+    100032: Bip01 R Foot
+    100034: Bip01 R Forearm
+    100036: Bip01 R Hand
+    100038: Bip01 R Thigh
+    100040: Bip01 R Toe0
+    100042: Bip01 R UpperArm
+    100044: Bip01 Spine
+    100046: Bip01 Spine1
+    100048: "Bip01 \u5934\u90E8"
+    100050: "Bip01 \u9AA8\u76C6"
+    100052: Bone01
+    100054: gw_mohundaobing
+    100056: //RootNode
+    100058: gw_mohunqiangbing01
+    400000: Bip01
+    400002: Bip01 L Calf
+    400004: Bip01 L Clavicle
+    400006: Bip01 L Finger0
+    400008: Bip01 L Finger01
+    400010: Bip01 L Foot
+    400012: Bip01 L Forearm
+    400014: Bip01 L Hand
+    400016: Bip01 L Thigh
+    400018: Bip01 L Toe0
+    400020: Bip01 L UpperArm
+    400022: Bip01 Neck
+    400024: Bip01 R Calf
+    400026: Bip01 R Clavicle
+    400028: Bip01 R Finger0
+    400030: Bip01 R Finger01
+    400032: Bip01 R Foot
+    400034: Bip01 R Forearm
+    400036: Bip01 R Hand
+    400038: Bip01 R Thigh
+    400040: Bip01 R Toe0
+    400042: Bip01 R UpperArm
+    400044: Bip01 Spine
+    400046: Bip01 Spine1
+    400048: "Bip01 \u5934\u90E8"
+    400050: "Bip01 \u9AA8\u76C6"
+    400052: Bone01
+    400054: //RootNode
+    400056: gw_mohundaobing
+    400058: gw_mohunqiangbing01
+    4300000: gw_mohundaobing
+    4300002: gw_mohunqiangbing01
+    7400000: Run
+    7400002: Walk
+    7400004: Idle
+    7400006: AttackIdle
+    7400008: Death
+    7400010: Death2
+    7400012: Hit
+    7400014: Attack1
+    7400016: Attack2
+    7400018: Attack3
+    7400020: Attack4
+    9500000: //RootNode
+    13700000: gw_mohundaobing
+    13700002: gw_mohunqiangbing01
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Run
+      takeName: Take 001
+      firstFrame: 186
+      lastFrame: 205
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8"
+        weight: 1
+      - path: Bone01
+        weight: 1
+      - path: gw_mohundaobing
+        weight: 1
+      - path: gw_mohunqiangbing01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      firstFrame: 147
+      lastFrame: 182
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8"
+        weight: 1
+      - path: Bone01
+        weight: 1
+      - path: gw_mohundaobing
+        weight: 1
+      - path: gw_mohunqiangbing01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 40
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8"
+        weight: 1
+      - path: Bone01
+        weight: 1
+      - path: gw_mohundaobing
+        weight: 1
+      - path: gw_mohunqiangbing01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: AttackIdle
+      takeName: Take 001
+      firstFrame: 209
+      lastFrame: 249
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8"
+        weight: 1
+      - path: Bone01
+        weight: 1
+      - path: gw_mohundaobing
+        weight: 1
+      - path: gw_mohunqiangbing01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death
+      takeName: Take 001
+      firstFrame: 571
+      lastFrame: 593
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8"
+        weight: 1
+      - path: Bone01
+        weight: 1
+      - path: gw_mohundaobing
+        weight: 1
+      - path: gw_mohunqiangbing01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Death2
+      takeName: Take 001
+      firstFrame: 596
+      lastFrame: 620
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8"
+        weight: 1
+      - path: Bone01
+        weight: 1
+      - path: gw_mohundaobing
+        weight: 1
+      - path: gw_mohunqiangbing01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Hit
+      takeName: Take 001
+      firstFrame: 504
+      lastFrame: 520
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8"
+        weight: 1
+      - path: Bone01
+        weight: 1
+      - path: gw_mohundaobing
+        weight: 1
+      - path: gw_mohunqiangbing01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack1
+      takeName: Take 001
+      firstFrame: 250
+      lastFrame: 282
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .40222767
+        functionName: Attack
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8"
+        weight: 1
+      - path: Bone01
+        weight: 1
+      - path: gw_mohundaobing
+        weight: 1
+      - path: gw_mohunqiangbing01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack2
+      takeName: Take 001
+      firstFrame: 283
+      lastFrame: 319
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events:
+      - time: .485148519
+        functionName: Attack
+        data: 
+        objectReferenceParameter: {instanceID: 0}
+        floatParameter: 0
+        intParameter: 0
+        messageOptions: 0
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8"
+        weight: 1
+      - path: Bone01
+        weight: 1
+      - path: gw_mohundaobing
+        weight: 1
+      - path: gw_mohunqiangbing01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack3
+      takeName: Take 001
+      firstFrame: 320
+      lastFrame: 380
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8"
+        weight: 1
+      - path: Bone01
+        weight: 1
+      - path: gw_mohundaobing
+        weight: 1
+      - path: gw_mohunqiangbing01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: Attack4
+      takeName: Take 001
+      firstFrame: 381
+      lastFrame: 431
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bip01
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 L Thigh/Bip01 L Calf/Bip01
+          L Foot/Bip01 L Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 R Thigh/Bip01 R Calf/Bip01
+          R Foot/Bip01 R Toe0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          L Clavicle/Bip01 L UpperArm/Bip01 L Forearm/Bip01 L Hand/Bip01 L Finger0/Bip01
+          L Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          R Clavicle/Bip01 R UpperArm/Bip01 R Forearm/Bip01 R Hand/Bip01 R Finger0/Bip01
+          R Finger01"
+        weight: 1
+      - path: "Bip01/Bip01 \u9AA8\u76C6/Bip01 Spine/Bip01 Spine1/Bip01 Neck/Bip01
+          \u5934\u90E8"
+        weight: 1
+      - path: Bone01
+        weight: 1
+      - path: gw_mohundaobing
+        weight: 1
+      - path: gw_mohunqiangbing01
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
